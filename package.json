@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "Aplicacion de Whatsapp para escritorio, especialmente distribuciones de linux ya que la aplicacion official solo es para MAC y Windows ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasonMoraMora/WhatsApp-For-Desktop.git"
+  },
+  "author": "Jaison Jhair Mora Mora",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JasonMoraMora/WhatsApp-For-Desktop/issues"
+  },
+  "homepage": "https://github.com/JasonMoraMora/WhatsApp-For-Desktop#readme",
+  "dependencies": {
+    "electron": "^1.7.9"
+  }
+}
